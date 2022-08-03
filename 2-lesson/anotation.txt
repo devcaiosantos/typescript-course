@@ -1,0 +1,4 @@
+O comando "tsc --init" cria o arquivo tsconfig.json, que é onde são definidas algumas regras
+A opção "outputDir" serve para definir o diretório de compilação para qual será enviado os arquivos JS.
+
+

@@ -1,0 +1,1 @@
+Utilizar o comando "tsc FILE_NAME.ts" para compilar o arquivo js
