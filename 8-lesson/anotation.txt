@@ -1,0 +1,1 @@
+Interface: estrutura para definir um objeto
