@@ -1,0 +1,2 @@
+Generics:
+Utilizado para deixar o códico mais genérico, para ser mais reutilizado e diminuir os pontos de contato
